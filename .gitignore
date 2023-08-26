@@ -1,1 +1,1 @@
-/node_modules/
+-r --cached node_modules
